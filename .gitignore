@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+#
+#don't try to upload the huge kaggle data
+data/*
