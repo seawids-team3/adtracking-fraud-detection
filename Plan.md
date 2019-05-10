@@ -1,5 +1,6 @@
 ## Data processing     
 - [ ] Done by 16th May
+
 The original tarin data is about 11+ GB. There is a a sample set of train data set. 
 
 ### download the data   
@@ -18,6 +19,7 @@ The original tarin data is about 11+ GB. There is a a sample set of train data s
 
 ## Building the model
 - [ ] Done by 23rd May
+
 Build The model based on the sample train data. 
 
 ### developing the model
@@ -25,6 +27,7 @@ Build The model based on the sample train data.
 
 ## Run the final model based on the original data set on a cloud. 
 - [ ] Done by 30th May
+
 ### write a report and make a presentation
 
 
