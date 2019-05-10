@@ -1,13 +1,17 @@
-1. download the data
+## Data processing
 
-2.  Investigating the data
+### download the data
 
-2.1.  checking the distribution of features
+###  Investigating the data
 
-2.2.  calculating some distributing information
+  ####  checking the distribution of features
 
-2-3. visulazation the features
+  ####  calculating some distributing information
 
-3. Extracting more features from existance data
+  #### visulazation the features
+  
+  #### Checking correlation between data
+
+### Extracting more features from existance data
 
 
