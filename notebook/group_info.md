@@ -1,7 +1,7 @@
 
 # seawids-team3 Kaggle competition group
 ## Who we are?
-We are a team of SeaWiDS members who are preparing for job interviews in data science, data analyst and related position. 
+We are a team of SeaWiDS members who are preparing for job interviews in data science, data analyst and related positions. 
 our team include 3 people. 
 
 We collaborate through a [ slack channel ](https://women-ds-seattle.slack.com/messages/GJEQ1A1B2/convo/GJEQ1A1B2-1557259959.001200/) and a [github page](https://github.com/seawids-team3).
