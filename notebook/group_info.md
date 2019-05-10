@@ -6,19 +6,19 @@ our team include 3 people.
 
 We collaborate through a [ slack channel ](https://women-ds-seattle.slack.com/messages/GJEQ1A1B2/convo/GJEQ1A1B2-1557259959.001200/) and a [github page](https://github.com/seawids-team3).
 ## Members
-* Janet Carson: She is Metis alumni in data science. She has a master of science in computer science and a bachelor in mathematical science.
+* **Janet Carson**: She is Metis alumni in data science. She has a master of science in computer science and a bachelor in mathematical science.
 
 LinkedIn: https://www.linkedin.com/in/carsondata/
 
 Github: https://github.com/j-carson
 
-* Leila Norouzi: She is Springboard alumni in data science. She has a Ph.D. in Space physics, Master in physical oceanography and bachelor in applied physics. 
+* **Leila Norouzi**: She is Springboard alumni in data science. She has a Ph.D. in Space physics, Master in physical oceanography and bachelor in applied physics. 
 
 LinkedIn: https://www.linkedin.com/in/leila-norouzi/
 
 Github: https://github.com/leilanorouzi
 
-* Sonia Arora: She has master and bachelor degree in computer science. 
+* **Sonia Arora**: She has master and bachelor degree in computer science. 
 
 LinkedIn: https://www.linkedin.com/in/arora-sonia/
 
