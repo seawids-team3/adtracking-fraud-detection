@@ -1,18 +1,22 @@
 ## Goal
-The goal is to detect the fradulant clicks based on recorded information from  approximately 200 million clicks information collected over 4 days. 
+The goal is to detect the fraudulent clicks based on recorded information from  approximately 200 million clicks 
+information collected over 4 days. 
 ## Data processing     
 - [ ] Done by 16th May
 
 ##### Download the data
-The whole data set was consist of main train and test data sets and two other files of sample of train and test data sets. 
-The original tarin data is about 11+ GB containing 184903890 rows. There is a a sample set of train data set. 
-The sample train set is about 6.1+ MB and include 100000 random saple of original data set. 
+The whole data set consists of main train and test data sets, a smaller training subsample, and an undocumented
+test supplement.
+The full training data is about 11+ GB containing 184903890 rows. 
+The smaller training set is about 6.1+ MB and includes 100000 random rows of the full data set. 
 
-In order to develop the model, we work on sample taining data set. 
+In order to develop the model, we are starting with the sample training data set. 
 
 
 ###  Investigating the data
-The training data set contains 8 features including 7 numerical features and one date-time feature. Features name are :
+The training data set contains 7 predictors and one target feature.  The predictors include 5 numerical identifier features and 
+two date-time features. Features are:
+
 - ip: ip address of click.
 
 - app: app id for marketing.
@@ -29,11 +33,11 @@ The training data set contains 8 features including 7 numerical features and one
 
 - is_attributed: the target that is to be predicted, indicating the app was downloaded
  
-There are lots of missing value in click_time. If the clik is fradulant, the is_attributed feature is 1 otherwise it is 0. 
+There are lots of missing value in attributed_time: If is_attributed is 0, this is empty.
 
-  ####  checking the distribution of features
+####  checking the distribution of features (training subsample)
   
-  - tehre are 227 missing value in is_attributed feature.
+  - There are 227 missing value in is_attributed feature.
   
   - whitin this data there are:
     - 34857 unique ip
@@ -45,9 +49,9 @@ There are lots of missing value in click_time. If the clik is fradulant, the is_
     
    It shows that about 19650 click_time are simmilar.
 
-  ####  calculating some descriptive information
+####  calculating some descriptive information
   
-  #### Checking correlation between data
+#### Checking correlation between data
 
 ### Extracting more features from existing data
 

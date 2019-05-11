@@ -1,28 +1,33 @@
 
 # seawids-team3 Kaggle competition group
 ## Who we are?
-We are a team of SeaWiDS members who are preparing for job interviews in data science, data analyst and related positions. 
-our team include 3 people. 
+We are a team of Seattle Women in Data Science  members who are preparing for job interviews in data science, data analyst and 
+related positions. 
+Our team include 3 people. 
 
 We collaborate through a [ slack channel ](https://women-ds-seattle.slack.com/messages/GJEQ1A1B2/convo/GJEQ1A1B2-1557259959.001200/) and a [github page](https://github.com/seawids-team3).
 ## Members
-* **Janet Carson**: She is Metis alumni in data science. She has a master of science in computer science and a bachelor in mathematical science.
+* **Janet Carson**: She is Metis alumni in data science. She has a Master of Science in Computer Science and a Bachelor of Arts in Mathematical Science.
 
 LinkedIn: https://www.linkedin.com/in/carsondata/
 
 Github: https://github.com/j-carson
 
-* **Leila Norouzi**: She is Springboard alumni in data science. She has a Ph.D. in Space physics, Master in physical oceanography and bachelor in applied physics. 
+* **Leila Norouzi**: She is Springboard alumni in data science. She has a Ph.D. in Space Physics, Master in Physical Oceanography and Bachelor in Applied Physics. 
 
 LinkedIn: https://www.linkedin.com/in/leila-norouzi/
 
 Github: https://github.com/leilanorouzi
 
-* **Sonia Arora**: She has master and bachelor degree in computer science. 
+* **Sonia Arora**: She has Master and Bachelor degrees in Computer Science. 
 
 LinkedIn: https://www.linkedin.com/in/arora-sonia/
 
 Github: https://github.com/soniaarora
+
+* **Chib Osuji**
+
+Github: https://github.com/chibosuji1
 
 ## Our goal
 Our initial goal is to have more experience in different area of data science.  The project has been chosen because the cybersecurity getting more and more vital ever day and there are lots of demand for cyber-protection in the market. The project is also involves a large number of records. The significance of the project brings us an opportunity to experience in a big data project. 
