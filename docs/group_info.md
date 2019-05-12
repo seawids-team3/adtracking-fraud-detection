@@ -11,6 +11,7 @@ We collaborate through a [ slack channel ](https://women-ds-seattle.slack.com/me
 * **Chib Osuji**: He is insights consultant at Stats Fabulous and has a bachelor degree in psychology.
 
 Github: https://github.com/chibosuji1
+
 LinkedIn: https://www.linkedin.com/in/chibuzor-o-8a332a39/
 
 * **Janet Carson**: She is Metis alumni in data science. She has a Master of Science in Computer Science and a Bachelor of Arts in Mathematical Science.
